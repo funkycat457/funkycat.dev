@@ -30,7 +30,7 @@ python3 -m http.server 8000
 
 ## License
 
-[MIT](./LICENSE) for the code. The photos in `/images/` are mine — please don't reuse those.
+[MIT](./LICENSE) for the code. The Images are mine  please don't reuse those.
 
 ---
 
